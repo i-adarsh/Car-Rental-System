@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1608812869 source:/Users/adarshkumar/Documents/Project/C/Car_Rental_System/adarsh.c
+	<stdio.h>
+	<stdlib.h>
+	"adarsh.h"
+	"car.h"
+	<termios.h>
+	<unistd.h>
+
+1608812866 /Users/adarshkumar/Documents/Project/C/Car_Rental_System/adarsh.h
+
+1583649040 /Users/adarshkumar/Documents/Project/C/Car_Rental_System/car.h
+	<time.h>
+	<termios.h>
+	<unistd.h>
+
+1608813754 source:/Users/adarshkumar/Documents/Project/C/Car_Rental_System/main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"adarsh.h"
+	<termios.h>
+	<unistd.h>
+
